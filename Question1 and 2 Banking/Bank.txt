@@ -1,0 +1,420 @@
+Account: Rutendo V Mumvuri
+Transaction: BALANCE CHECK
+Amount: $0.0
+Balance: $1000.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:21:49
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $500.0
+Balance: $1500.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:21:49
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $-100.0
+Balance: $1500.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 21:21:49
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $0.0
+Balance: $1500.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 21:21:49
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $250.0
+Balance: $1750.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:21:49
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $300.0
+Balance: $1450.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:21:49
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $2000.0
+Balance: $1450.0
+Status: FAILED - Insufficient funds
+Timestamp: 2025-10-01 21:21:49
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $-50.0
+Balance: $1450.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 21:21:49
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $800.0
+Balance: $650.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:21:49
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: BALANCE CHECK
+Amount: $0.0
+Balance: $650.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:21:49
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: BALANCE CHECK
+Amount: $0.0
+Balance: $1000.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:30:16
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $500.0
+Balance: $1500.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:30:16
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $-100.0
+Balance: $1500.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 21:30:16
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $0.0
+Balance: $1500.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 21:30:16
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $250.0
+Balance: $1750.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:30:16
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $300.0
+Balance: $1450.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:30:16
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $2000.0
+Balance: $1450.0
+Status: FAILED - Insufficient funds
+Timestamp: 2025-10-01 21:30:16
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $-50.0
+Balance: $1450.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 21:30:16
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $800.0
+Balance: $650.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:30:16
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: BALANCE CHECK
+Amount: $0.0
+Balance: $650.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:30:16
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: BALANCE CHECK
+Amount: $0.0
+Balance: $1000.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:32:05
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $500.0
+Balance: $1500.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:32:05
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $-100.0
+Balance: $1500.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 21:32:05
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $0.0
+Balance: $1500.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 21:32:05
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $250.0
+Balance: $1750.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:32:05
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $300.0
+Balance: $1450.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:32:05
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $2000.0
+Balance: $1450.0
+Status: FAILED - Insufficient funds
+Timestamp: 2025-10-01 21:32:05
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $-50.0
+Balance: $1450.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 21:32:05
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $800.0
+Balance: $650.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:32:05
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: BALANCE CHECK
+Amount: $0.0
+Balance: $650.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:32:05
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: BALANCE CHECK
+Amount: $0.0
+Balance: $1000.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:33:20
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $500.0
+Balance: $1500.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:33:20
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $-100.0
+Balance: $1500.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 21:33:20
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $0.0
+Balance: $1500.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 21:33:20
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $250.0
+Balance: $1750.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:33:20
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $300.0
+Balance: $1450.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:33:20
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $2000.0
+Balance: $1450.0
+Status: FAILED - Insufficient funds
+Timestamp: 2025-10-01 21:33:20
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $-50.0
+Balance: $1450.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 21:33:20
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $800.0
+Balance: $650.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:33:20
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: BALANCE CHECK
+Amount: $0.0
+Balance: $650.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:33:20
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: BALANCE CHECK
+Amount: $0.0
+Balance: $1000.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:59:58
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $500.0
+Balance: $1500.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:59:58
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $-100.0
+Balance: $1500.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 21:59:58
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $0.0
+Balance: $1500.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 21:59:58
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: DEPOSIT
+Amount: $250.0
+Balance: $1750.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:59:58
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $300.0
+Balance: $1450.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:59:58
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $2000.0
+Balance: $1450.0
+Status: FAILED - Insufficient funds
+Timestamp: 2025-10-01 21:59:58
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $-50.0
+Balance: $1450.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 21:59:58
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: WITHDRAWAL
+Amount: $800.0
+Balance: $650.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:59:58
+----------------------------------------
+Account: Rutendo V Mumvuri
+Transaction: BALANCE CHECK
+Amount: $0.0
+Balance: $650.0
+Status: SUCCESS
+Timestamp: 2025-10-01 21:59:58
+----------------------------------------
+Account: Rutendo V Mumvuri & Princess B Kwaniya
+Transaction: BALANCE CHECK
+Amount: $0.0
+Balance: $1000.0
+Status: SUCCESS
+Timestamp: 2025-10-01 22:02:20
+----------------------------------------
+Account: Rutendo V Mumvuri & Princess B Kwaniya
+Transaction: DEPOSIT
+Amount: $500.0
+Balance: $1500.0
+Status: SUCCESS
+Timestamp: 2025-10-01 22:02:20
+----------------------------------------
+Account: Rutendo V Mumvuri & Princess B Kwaniya
+Transaction: DEPOSIT
+Amount: $-100.0
+Balance: $1500.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 22:02:20
+----------------------------------------
+Account: Rutendo V Mumvuri & Princess B Kwaniya
+Transaction: DEPOSIT
+Amount: $0.0
+Balance: $1500.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 22:02:20
+----------------------------------------
+Account: Rutendo V Mumvuri & Princess B Kwaniya
+Transaction: DEPOSIT
+Amount: $250.0
+Balance: $1750.0
+Status: SUCCESS
+Timestamp: 2025-10-01 22:02:20
+----------------------------------------
+Account: Rutendo V Mumvuri & Princess B Kwaniya
+Transaction: WITHDRAWAL
+Amount: $300.0
+Balance: $1450.0
+Status: SUCCESS
+Timestamp: 2025-10-01 22:02:20
+----------------------------------------
+Account: Rutendo V Mumvuri & Princess B Kwaniya
+Transaction: WITHDRAWAL
+Amount: $2000.0
+Balance: $1450.0
+Status: FAILED - Insufficient funds
+Timestamp: 2025-10-01 22:02:20
+----------------------------------------
+Account: Rutendo V Mumvuri & Princess B Kwaniya
+Transaction: WITHDRAWAL
+Amount: $-50.0
+Balance: $1450.0
+Status: FAILED - Invalid amount
+Timestamp: 2025-10-01 22:02:20
+----------------------------------------
+Account: Rutendo V Mumvuri & Princess B Kwaniya
+Transaction: WITHDRAWAL
+Amount: $800.0
+Balance: $650.0
+Status: SUCCESS
+Timestamp: 2025-10-01 22:02:20
+----------------------------------------
+Account: Rutendo V Mumvuri & Princess B Kwaniya
+Transaction: BALANCE CHECK
+Amount: $0.0
+Balance: $650.0
+Status: SUCCESS
+Timestamp: 2025-10-01 22:02:20
+----------------------------------------
